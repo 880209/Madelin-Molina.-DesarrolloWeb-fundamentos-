@@ -1,6 +1,6 @@
 # Madelin-Molina.-DesarrolloWeb-fundamentos-
 Evalucion final Fundamentos HTML
-add<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
