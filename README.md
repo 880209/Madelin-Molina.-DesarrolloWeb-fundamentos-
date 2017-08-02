@@ -261,7 +261,7 @@ Ademas siempre estoy en busqueda de nuevas alternativas y actualizando mis conoc
   </footer>
 </html>
 
-add <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -522,7 +522,7 @@ add <!DOCTYPE html>
   </p>
 </footer>
 </html>
-add <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
